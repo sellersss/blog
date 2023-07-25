@@ -10,7 +10,7 @@ const BLOG = {
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#F6F8FA', // use hex value, don't forget '#' e.g #fffefc
-  darkBackground: '#010314', // use hex value, don't forget '#'
+  darkBackground: '#052e16', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Notionic in a folder
   since: 2021, // If leave this empty, current year will be used.
   postsPerPage: 10,
@@ -42,7 +42,7 @@ const BLOG = {
       'places',
       'international affairs',
       'international relations',
-      'poltiical science'
+      'political science'
     ],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
